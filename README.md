@@ -16,7 +16,7 @@ The script will analyze each protein sequence, calculate its parameters, and wri
 protparam_analysis.txt: Contains the calculated parameters for each protein sequence, including count and percentage of amino acids, molecular weight, aromaticity, isoelectric point, secondary structure fraction, GRAVY value, instability index, and flexibility.
 
 ## Citation
-If you are using the protparam_analysis.py script for your research, please consider citing it as follows: Sharma, R. (2024).ncbi_genome_downloader.py . Retrieved from https://github.com/BioinfoRhythm/protparam_analysis.py
+If you are using the protparam_analysis.py script for your research, please consider citing it as follows: Sharma, R. (2024).protparam_analysis.py. Retrieved from https://github.com/BioinfoRhythm/protparam_analysis.py
 
 ## Acknowledgments
 Biopython developers for providing the ProtParam module.
