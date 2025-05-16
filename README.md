@@ -3,8 +3,9 @@ This repository contains a Python script for analyzing protein parameters using 
 ## Requirements
 `Python 3.x`
 
+```bash
 Biopython (install via pip install biopython)
-
+```
 ## Input
 
 Place your protein sequences in a FASTA format file named protein.fasta inside a directory.
