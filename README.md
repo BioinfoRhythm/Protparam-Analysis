@@ -1,7 +1,7 @@
 ## Protein Parameter Analysis with ProtParam
 This repository contains a Python script for analyzing protein parameters using Biopython's ProtParam module. The script calculates various physicochemical properties of proteins from a FASTA file and writes the results to an output text file.
 ## Requirements
-Python 3.x
+`Python 3.x`
 
 Biopython (install via pip install biopython)
 
